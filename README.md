@@ -83,7 +83,7 @@ The  Library Management System modernizes library operations by centralizing key
 
 ## 🔗 App Link
 
-[▶️ Access the App Here](https://apps.powerapps.com/play/e/c40cd82f-b798-eba4-a058-e4280c1f9902/a/f2bd1db2-aa5d-482f-9d44-ba7fa94689a2?tenantId=22426826-dc4c-401a-8d0e-7f97e64c0f99)
+▶️ Access the App Here :- https://apps.powerapps.com/play/e/c40cd82f-b798-eba4-a058-e4280c1f9902/a/f2bd1db2-aa5d-482f-9d44-ba7fa94689a2?tenantId=22426826-dc4c-401a-8d0e-7f97e64c0f99
 You Tube :- https://www.youtube.com/playlist?list=PLhu9cMT12syhqlu6cXHfgIrNbGwXlwkm6
 ---
 
